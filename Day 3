@@ -1,0 +1,27 @@
+Analisa tools jira vs trello vs youtrack
+1. Flow penggunaan tools
+   a. trello = ke Fitur Workboard didalam Workboard yang harus dilakukan:
+      - Backlog(masukan planning yang akan dikerjakan, time tentukan jadwal,). 
+      - In progress/ Doing(task yang sedang dikerjakan).
+      - Done(masukan/drag, Jika task sudah beres).
+      - Resolved(Ketika task didalam done sudah diperiksa dan clear oleh yang mempunyai akses).
+   b. jira = workboard:
+      - Masuk ke tab Backlog(buat plann, time,dsb).
+      - Masuk ke tab Active sprint(untuk task progress yang sedang dikerjakan dan done).
+      - Masuk ke tab Reports(untuk task yang sudah clear.)
+      - Masuk ke tab Issues (jika ada issues dalam task progress)
+   c. youtrack = 
+      - choose workflow
+      - new workflow - workflow constructor
+      - select project such as (Design, Development)
+      - drag and drop conditions and actions yang kamu butuhkan lalu isi field plann or time.
+      - choose tab issues, jika ada sebuah issues
+      - choose tab reports, jika task sudah clear.
+
+2. Jelaskan kelebihan dan kekurangan trello vs jira vs youtrack
+   - trello = kelebihan(simple, gampang digunakan, friendly buat pemula, ada pilihan gratisnya), kekurangan(fitur lebih sedikit dibanding jira/youtrack).
+   - jira = kelebihan(kaya fitur, integrasi banyak sekali. ), kekurangan(tidak ada pilihan gratis).
+   - youtrack = kelebihan(kaya fitur), kekurangan(tidak ada pilihan gratis hanya ada try free).
+
+3. Pilih mana, yang digunakan untuk membuat workboard refactory
+   - Trello
